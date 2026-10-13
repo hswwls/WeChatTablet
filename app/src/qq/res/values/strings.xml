@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QQTablet</string>
+    <string name="xposed_desc">QQ平板模块\nby hswwls@github</string>
+</resources>

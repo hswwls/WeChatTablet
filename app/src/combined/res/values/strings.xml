@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TencentTablet</string>
+    <string name="xposed_desc">微信+QQ平板模块\nby hswwls@github</string>
+</resources>

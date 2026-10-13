@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeChatTablet</string>
+    <string name="xposed_desc">微信平板模块\nby hswwls@github</string>
+    <string name="about_module">This module is made by YukiHookAPI. \nLearn more https://github.com/HighCapable/YuKiHookAPI</string>
+</resources>
