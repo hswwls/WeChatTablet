@@ -237,10 +237,8 @@ QQShield: dump QSec / FEKit = <该类全部成员名，便于版本适配>
 | YukiHookAPI | https://github.com/HighCapable/YukiHookAPI |
 | DexKit | https://github.com/LuckyPray/DexKit |
 | FastKV | https://github.com/BillyWei01/FastKV |
-| 上游平板模块（WeChatTablet by hswwls） | https://github.com/Xposed-Modules-Repo/top.hookvip.wxtablet |
+| 上游平板模块（WeChatTablet by ） |  |
 
-## 十二、许可
 
-MIT License，见 [LICENSE](LICENSE)。
 
 仅供学习研究与个人设备调试使用，使用造成的任何后果由使用者自行承担。
