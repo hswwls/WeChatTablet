@@ -237,7 +237,7 @@ QQShield: dump QSec / FEKit = <该类全部成员名，便于版本适配>
 | YukiHookAPI | https://github.com/HighCapable/YukiHookAPI |
 | DexKit | https://github.com/LuckyPray/DexKit |
 | FastKV | https://github.com/BillyWei01/FastKV |
-| 上游平板模块（WeChatTablet by ） |  |
+| 上游平板模块（WeChatTablet by lovejiuwu） | https://github.com/Xposed-Modules-Repo/top.hookvip.wxtablet |
 
 
 
