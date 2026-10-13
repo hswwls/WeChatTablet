@@ -1,0 +1,35 @@
+*.iml
+.gradle
+.kotlin
+.idea
+.DS_Store
+
+# 构建产物
+/build
+/app/build
+/app/release/
+/app/debug/
+/captures
+
+# Android/NDK
+.externalNativeBuild
+.cxx
+
+# 本地环境（含个人 SDK 路径，禁止入库）
+local.properties
+
+# 签名材料（禁止入库）
+*.keystore
+*.jks
+*.p12
+*.idsig
+keystore.properties
+
+# 日志与抓包
+*.log
+capture_*.log
+offsets.json
+
+# 分析用的临时产物
+*.dexcache
+qq_sec/
